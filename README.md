@@ -204,14 +204,3 @@ if (process.env.NODE_ENV === 'production') {
 ```
 
 ---
-
-## 🎓 Built For
-
-University of Technology — Master's Application Portfolio  
-Demonstrating full-stack MERN development with real-time WebSocket architecture.
-
----
-
-## 📄 License
-
-MIT © 2024
