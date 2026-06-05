@@ -11,7 +11,18 @@
   "devDependencies": {
     "concurrently": "^8.2.2"
   },
-  "keywords": ["mern", "mongodb", "express", "react", "nodejs", "socket.io", "real-time"],
+  "keywords": [
+    "mern",
+    "mongodb",
+    "express",
+    "react",
+    "nodejs",
+    "socket.io",
+    "real-time"
+  ],
   "author": "Your Name",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
 }
